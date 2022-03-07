@@ -4,7 +4,7 @@
 
 ### a
 
-[a](a.md) ba ca da fa ga ha j(y)a ka la ma na nga pa q(y)a sa ta tya wa x(y)a ya za
+[a](a.md) [ba](ba.md) ca da fa ga ha j(y)a ka la ma na nga pa q(y)a sa ta tya wa x(y)a ya za
 
 ### ae
 
