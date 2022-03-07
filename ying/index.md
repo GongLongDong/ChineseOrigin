@@ -4,7 +4,7 @@
 
 ### a
 
-[a](a.md) [ba](ba.md) ca da fa ga ha j(y)a ka la ma na nga pa q(y)a sa ta tya wa x(y)a ya za
+[a](a.md) [ba](ba.md) [ca](ca.md) [da](da.md) [fa](fa.md) [ga](ga.md) [ha](ha.md) [j(y)a](jya.md) [ka](ka.md) [la](la.md) [ma](ma.md) [na](na.md) [nga](nga.md) [pa](pa.md) [q(y)a](cya.md) [sa](sa.md) [ta](ta.md) [tya](tya.md) [wa](wa.md) [x(y)a](sya.md) [ya](ya.md) [za](za.md)
 
 ### ae
 
