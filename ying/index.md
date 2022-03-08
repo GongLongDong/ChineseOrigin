@@ -4,7 +4,7 @@
 
 ### a
 
-[a](a.md) [ba](ba.md) [ca](ca.md) [da](da.md) [fa](fa.md) [ga](ga.md) [ha](ha.md) [j(y)a](jya.md) [ka](ka.md) [la](la.md) [ma](ma.md) [na](na.md) [nga](nga.md) [pa](pa.md) [q(y)a](cya.md) [sa](sa.md) [ta](ta.md) [tya](tya.md) [wa](wa.md) [x(y)a](sya.md) [ya](ya.md) [za](za.md)
+[a](a.md) [ba](ba.md) [ca](ca.md) [da](da.md) [fa](fa.md) [ga](ga.md) [ha](ha.md) [j(y)a](jya.md) [ka](ka.md) [la](la.md) [ma](ma.md) [na](na.md) [nya](nya.md) [nga](nga.md) [pa](pa.md) [q(y)a](cya.md) [sa](sa.md) [ta](ta.md) [tya](tya.md) [wa](wa.md) [x(y)a](sya.md) [ya](ya.md) [za](za.md)
 
 ### ae
 
@@ -63,6 +63,20 @@ ong bong cong [dong](dong.md) fong gong hong j(y)ong kong long mong nong pong so
 bu cu du fu gu hu ju ku lu mu nu ngu pu qyu su tu wu xu yu zu
 
 ---
+
+### wa
+
+wa gwa hwa kwa swa zwa
+
+---
+
+### we
+
+we gwe hwe kwe 
+
+---
+
+
 
 ### ya
 
