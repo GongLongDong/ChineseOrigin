@@ -8,11 +8,11 @@
 
 ### ae
 
-ae bae cae dae fae gae hae jae kae lae mae nae ngae pae qae sae tae wae xae yae zae
+[ae](ae.md) [bae](bae.md) [cae](cae.md) [dae](dae.md) [fae](fae.md) [gae](gae.md) [hae](hae.md) [jae](jae.md) [kae](kae.md) [lae](lae.md) [mae](mae.md) [nae](nae.md) [ngae](ngae.md) [pae](pae.md) [qae](qae.md) [sae](sae.md) [tae](tae.md) [wae](wae.md) [xae](xae.md) [yae](yae.md) [zae](zae.md)
 
 ### ai
 
-ai bai cai dai fai gai hai jai kai lai mai nai ngai pai qai sai tai wai xai yai zai
+ai bai cai dai fai gai hai jai kai lai mai nai ngai pai qai [sai](sai.md) tai wai xai yai zai
 
 ### ang
 
@@ -68,15 +68,17 @@ bu cu du fu gu hu ju ku lu mu nu ngu pu qyu su tu wu xu yu zu
 
 wa gwa hwa kwa swa zwa
 
+### wai
+
+wai f(w)ai gwai hwai kwai swai zwai
+
 ---
 
 ### we
 
-we gwe hwe kwe 
+we gwe hwe kwe
 
 ---
-
-
 
 ### ya
 
