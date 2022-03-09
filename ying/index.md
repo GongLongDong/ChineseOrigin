@@ -12,7 +12,7 @@
 
 ### ai
 
-ai bai cai dai fai gai hai jai kai lai mai nai ngai pai qai [sai](sai.md) tai wai xai yai zai
+[ai](ai.md) [bai](bai.md) [cai](cai.md) [dai](dai.md) [fai](fai.md) [gai](gai.md) [hai](hai.md) jai [kai](kai.md) [lai](lai.md) [mai](mai.md) [nai](nai.md) [ngai](ngai.md) [pai](pai.md) qai [sai](sai.md) [tai](tai.md) [wai](wai.md) xai yai [zai](zai.md)
 
 ### ang
 
