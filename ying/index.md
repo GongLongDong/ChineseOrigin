@@ -16,7 +16,7 @@
 
 ### ang
 
-ang bang cang dang fang gang hang kang lang mang nang ngang pang sang tang wang x(y)ang yang zang
+[ang](ang.md) [bang](bang.md) [cang](cang.md) [dang](dang.md) [fang](fang.md) [gang](gang.md) [hang](hang.md) [kang](kang.md) [lang](lang.md) [mang](mang.md) [nang](nang.md) [ngang](ngang.md) [pang](pang.md) [sang](sang.md) [tang](tang.md) [wang](wang.md) [x(y)ang](xyang.md) [yang](yang.md) [zang](zang.md)
 
 ### ao
 
