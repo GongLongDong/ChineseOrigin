@@ -20,7 +20,7 @@
 
 ### ao
 
-ao bao cao dao fao gao hao j(y)ao kao lao mao nao ngao pao q(y)ao sao tao wao x(y)ao yao zao
+[ao](ao.md) [bao](bao.md) [cao](cao.md) [dao](dao.md) [fao](fao.md) [gao](gao.md) [hao](hao.md) [j(y)ao](jyao.md) [kao](kao.md) [lao](lao.md) [mao](mao.md) [nao](nao.md) [ngao](ngao.md) [pao](pao.md) [q(y)ao](qyao.md) [sao](sao.md) [tao](tao.md) [wao](wao.md) [x(y)ao](xyao.md) [yao](yao.md) [zao](zao.md)
 
 ---
 
@@ -90,7 +90,7 @@ yang cyang jyang lyang nyang qyang syang xyang zyang
 
 ### yao
 
-yao cyao dyao fyao jyao lyao myao nyao pyao qyao syao tyao xyao zyao
+yao cyao dyao fyao jyao lyao myao nyao pyao qyao [syao](syao.md) tyao xyao zyao
 
 ---
 
