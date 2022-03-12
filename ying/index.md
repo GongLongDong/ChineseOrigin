@@ -26,7 +26,7 @@
 
 ### e
 
-e be ce de fe ge he j(y)e ke le me ne nge pe q(y)e se te we x(y)e ye ze
+[e](e.md) [be](be.md) [ce](ce.md) [de](de.md) [fe](fe.md) [ge](ge.md) [he](he.md) [j(y)e](jye.md) [ke](ke.md) [le](le.md) [me](me.md) [ne](ne.md) [nge](nge.md) [pe](pe.md) [q(y)e](qye.md) [se](se.md) [te](te.md) [we](we.md) [x(y)e](xye.md) [ye](ye.md) [ze](ze.md)
 
 ### ei
 

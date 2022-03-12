@@ -23,3 +23,5 @@ deu 剁，朵
 dei 抖，斗
 ding
 dang
+
+本音阶段，转音阶段
