@@ -30,7 +30,7 @@
 
 ### ei
 
-ei bei cei dei fei gei hei kei lei mei nei ngei pei sei tei wei zei
+[ei](ei.md) [bei](bei.md) [cei](cei.md) [dei](dei.md) [fei](fei.md) [gei](gei.md) [hei](hei.md) [kei](kei.md) [lei](lei.md) [mei](mei.md) [nei](nei.md) [ngei](ngei.md) [pei](pei.md) [sei](sei.md) [tei](tei.md) [wei](wei.md) [zei](zei.md)
 
 ### eng
 
