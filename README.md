@@ -2,6 +2,8 @@
 
 ## [古音表](ying/index.md)
 
+## [本音列表](root_sound_index.md)
+
 百姓语，用以生存的核心语言
 
 syi ？，齐，洗，西，细

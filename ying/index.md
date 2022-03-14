@@ -1,5 +1,7 @@
 # 音检索表
 
+[yang](#)
+
 ## 以元音排列
 
 ### a
@@ -34,7 +36,7 @@
 
 ### eng
 
-eng beng ceng deng feng geng heng keng leng meng neng peng seng teng weng zeng
+[eng](eng.md) [beng](beng.md) [ceng](ceng.md) [deng](deng.md) [feng](feng.md) [geng](geng.md) [heng](heng.md) [keng](keng.md) [leng](leng.md) [meng](meng.md) [neng](neng.md) [peng](peng.md) [seng](seng.md) [teng](teng.md) [weng](weng.md) [zeng](zeng.md)
 
 ### eu
 
@@ -84,7 +86,7 @@ we gwe hwe kwe
 
 ya cya dya jya lya nya pya qya sya tya xya zya
 
-### yang
+### [yang](#yang)
 
 yang cyang jyang lyang nyang qyang syang xyang zyang
 
