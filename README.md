@@ -4,9 +4,13 @@
 
 ## [本音列表](root_sound_index.md)
 
-### 概念产生原因
+### 形成概念机理
 
 ![Alt text](diagram/conception_forming_theory.svg)
+
+### 概念形成过程
+
+![Alt text](diagram/conception_forming_procedure.drawio.svg)
 
 人类属于群居性高等智慧动物，群居性这个特质，驱使人类在生存活动中产生协作的需求。
 
