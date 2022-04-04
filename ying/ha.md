@@ -12,3 +12,6 @@
 喝，ha ye kei
 
 鞋
+
+盒 合；贴；tye tya
+狭
