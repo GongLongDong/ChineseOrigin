@@ -98,6 +98,8 @@ yao cyao dyao fyao jyao lyao myao nyao pyao qyao [syao](syao.md) tyao xyao zyao
 
 ### ye
 
+ye bye cye dye fye gye hye jye kye lye [mye](mye.md) nye pye qye sye tye wye xye zye
+
 ### yeu
 
 ---
