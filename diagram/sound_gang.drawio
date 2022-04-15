@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T18:08:54.862Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="w_A3aLPF1-Tam6TjyEqU" version="17.2.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-15T18:40:07.260Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="oWch7M61cP2zHCB7bp4a" version="17.2.0" type="github" pages="2">
   <diagram id="HX4TgYhVbhwBFajGFLVx" name="Page-1">
     <mxGraphModel dx="1693" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -276,7 +276,7 @@
         <mxCell id="hfjicUUgvdmW63aTpUhJ-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="hfjicUUgvdmW63aTpUhJ-19" target="hfjicUUgvdmW63aTpUhJ-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hfjicUUgvdmW63aTpUhJ-19" value="gang deu（强头）：固执的人" style="whiteSpace=wrap;html=1;fontSize=18;rounded=1;" vertex="1" parent="1">
+        <mxCell id="hfjicUUgvdmW63aTpUhJ-19" value="gang dei（强头）：固执的人" style="whiteSpace=wrap;html=1;fontSize=18;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="250" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hfjicUUgvdmW63aTpUhJ-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hfjicUUgvdmW63aTpUhJ-22" target="hfjicUUgvdmW63aTpUhJ-24">
