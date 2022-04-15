@@ -40,13 +40,13 @@
 
 ### eu
 
-eu beu ceu deu feu geu heu j(y)eu keu leu meu ngeu peu seu teu weu zeu
+eu beu ceu deu feu geu heu j(y)eu keu leu meu [ngeu](ying/ngeu.md) peu seu teu weu zeu
 
 ---
 
 ### i
 
-ci si zi
+ci si [zi](ying/zi.md)
 
 ---
 
@@ -112,7 +112,7 @@ yi byi cyi dyi fyi jyi kyi lyi
 
 ### yo
 
-yo jyo nyo qyo xyo zyo
+[yo](ying/yo.md) jyo nyo qyo xyo zyo
 
 ### yong
 
