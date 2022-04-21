@@ -52,7 +52,7 @@ ci si [zi](ying/zi.md)
 
 ### o
 
-o bo co do fo go ho j(y)o ko lo mo no ngo po so to wo x(y)o zo
+o [bo](bo.md) co do fo go ho j(y)o ko lo mo no ngo po so to wo x(y)o zo
 
 ### ong
 
@@ -106,7 +106,7 @@ ye bye cye dye fye gye hye jye kye lye [mye](mye.md) nye pye qye sye tye wye xye
 
 ### yi
 
-yi byi cyi dyi fyi jyi kyi lyi
+[yi](yi.md) byi cyi dyi fyi jyi kyi lyi [qyi](qyi.md) [xyi](xyi.md)
 
 ---
 
