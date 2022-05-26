@@ -27,8 +27,8 @@ The sound of burping, geu, which is very similar with the pronunciation of GO.
 Finally the ancients used the sound, geu, to express the concept, fruit. 
 
 The written character is 果. 
-In Mandarin it's pronounced，guǒ/guo3
-In Chinese Wu dialect, it's still pronounced, geu3
+1. In Mandarin it's pronounced，guǒ/guo3
+2. In Chinese Wu dialect, it's still pronounced, geu3
 
 
 3. 水果
@@ -63,17 +63,18 @@ Thus, the sound, geu , carrys the concept, result.
 
 > The words 因果 - the cause and the result
 
-In Mardarin, pronounced，yīn guǒ/yin1 guo3
-In Wu dialect, pronounced, ying1 geu3
+1. In Mardarin, pronounced，yīn guǒ/yin1 guo3
+2. In Wu dialect, pronounced, ying1 geu3
 
 1. 因 carrys the concept, cause
 2. 果 carrys the conept, result
 
 > The words 结果 - the result or the result formed in one situation
 
-In Mardarin, pronounced，jié guǒ/jie2 guo3
-In Wu dialect, pronounced, jye1 geu3
-1. 结 - carrys the concept, form
+1. In Mardarin, pronounced，jié guǒ/jie2 guo3
+2. In Wu dialect, pronounced, jye1 geu3
+   
+1. 结 carrys the concept, form
 
 
 建立在水果概念的基础上，中国古人对于水果的生长进行进一步认识。
