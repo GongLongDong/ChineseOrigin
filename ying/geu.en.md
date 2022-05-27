@@ -7,9 +7,13 @@
 ## Hierarchical derivative relations
 
 1. geu【嗝】- the sound or behavior of burping
-2. geu【果】- fruit; the product of a tree or plants 
-   1. geu【过】 - go; travel
-   2. geu【裹】- wrap; package; hold in the arm
+2. geu【果】- fruit; the product of a tree or plants
+   1. geu【果】- result
+   2. geu【果】- eat fruit as the food
+      1. geu【果】- have energy or confidence or resolve to do something
+      2. geu【果】- real or actual
+   3. geu【过】 - go; travel
+   4. geu【裹】- wrap; package; hold in the arm
       1. geu【锅】 - a container for cooking or boiling food
       2. geu【哥】 - elder brother
          1. 哥弟
@@ -61,7 +65,7 @@ The final product, fruit, is the result.
 
 Thus, the sound, geu , carrys the concept, result.
 
-> The words 因果 - the cause and the result
+> The words 因果 means the cause and the result
 
 1. In Mardarin, pronounced，yīn guǒ/yin1 guo3
 2. In Wu dialect, pronounced, ying1 geu3
@@ -69,12 +73,64 @@ Thus, the sound, geu , carrys the concept, result.
 1. 因 carrys the concept, cause
 2. 果 carrys the conept, result
 
-> The words 结果 - the result or the result formed in one situation
+> The words 结果 means the result or the result formed in one situation
 
 1. In Mardarin, pronounced，jié guǒ/jie2 guo3
 2. In Wu dialect, pronounced, jye1 geu3
    
 1. 结 carrys the concept, form
+
+### geu【果】- eating fruit as the food
+
+On the basis of the concept of fruit which is noun, derive verb concept of geu【果】 from the noun.
+
+> The words 果腹 means eating fruit to fill the stomach or cause the belly buldging
+
+1. In Mardarin, pronounced，ɡuǒ fù/guo3 fu4
+2. In Wu dialect, pronounced, geu3 fo1
+
+3. 腹 carrys the concept, belly - the front part of the human trunk below the ribs, containing the stomach and bowels.
+
+
+### geu【果】 - having energy or confidence or resolve to do something
+
+In a state of starvation, the body is weak and the will is too weak to act. 
+
+In the era of gathering, the ancient Chinese ate fruit as the staple to gain energy which let them build confidence and get resolve.
+
+The words 果断 means having resolve to make decision
+
+1. In Mardarin, pronounced，guǒ duàn/guo3 duan4
+2. In Wu dialect, pronounced, geu3 do2
+
+3. 断 carrys the concpet, decide or determine
+
+### geu【果】- real or actual
+
+In the era of gathering, fruit is the reliable food for survival and real life.
+
+Thus, geu【果】carrys the concept, real or actual.
+
+The words 果真 means being real to come true
+
+1. In Mardarin, pronounced，ɡuǒ zhēn/ɡuo3 zhen1
+2. In Wu dialect, pronounced, geu3 zeng1
+
+1. 真 carrys the concept, true or genuine or real
+
+The words 如果 means if or if something is real
+
+1. In Mardarin, pronounced, rú guǒ/ru2 guo3
+2. In Wu dialect, pronounced, su2 geu3
+
+3. 如 carrys the concept, to be the same or similar by imitating
+
+
+as the staple, fruit is reliable
+水果是赖以生存的主食
+如果
+果然
+
 
 
 建立在水果概念的基础上，中国古人对于水果的生长进行进一步认识。
